@@ -13,7 +13,7 @@
 void AsciiConversion(IMAGE *image){
 	assert(image);
 	FILE *testdoc;
-	testdoc= fopen("testdoc.txt", "a");
+	testdoc= fopen("Ascii.txt", "a");
 
 	fprintf(testdoc, "%s", "\n\n\n\n\n");
 

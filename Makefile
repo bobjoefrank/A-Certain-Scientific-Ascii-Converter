@@ -3,7 +3,7 @@
 # Makefile: MovieLab
 #
 
-FILE =  DIPs.o Movie.o MovieLab Image.o Ascii.o ImageList.o out.yuv testdoc.txt MovieLab.o
+FILE =  DIPs.o Movie.o MovieLab Image.o Ascii.o ImageList.o out.yuv Ascii.txt MovieLab.o
 
 all: MovieLab
 
