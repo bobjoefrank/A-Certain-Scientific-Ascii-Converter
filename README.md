@@ -6,7 +6,7 @@ The file is opened in Microsoft Word and is played as an animation.
 ![](https://github.com/bobjoefrank/A-Certain-Scientific-Ascii-Converter/blob/master/ascii_railgun.gif)
 
 
-You can view a full sample video here: https://www.youtube.com/watch?v=BdwJfN3H1k0
+You can view a full video here: https://www.youtube.com/watch?v=BdwJfN3H1k0
 
 This project was inspired by: http://www.bilibili.com/video/av8373756/?from=search&seid=12871251435183058499
 
