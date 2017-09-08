@@ -3,7 +3,7 @@
 An extension to a video editing program. Takes a .yuv video file and outputs the ascii equivalent of each frame into a text file.
 The file is opened in Microsoft Word and is played as an animation.
 
-![Video Sample](https://gifs.com/gif/a-certain-scientific-railgun-opening-in-ascii-Vm8o8X)
+![](https://github.com/bobjoefrank/A-Certain-Scientific-Ascii-Converter/blob/master/ascii_railgun.gif)
 
 
 You can view a full sample video here: https://www.youtube.com/watch?v=BdwJfN3H1k0
