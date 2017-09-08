@@ -35,7 +35,7 @@ need it later. Move the .yuv file to the same directory as the program and use t
 make
 ```
 
-Run the program using which will output a .yuv file and .txt file.
+Run the program which will output a Ascii.txt file.
 
 ```
 ./MovieLab -i (file name without .yuv extension) -o (output file name) -f (frame count from earlier) -s 170x66 -ascii
